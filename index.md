@@ -1,8 +1,8 @@
-## Welcome to GitHub of art
+## 版权地址页
 这是一个为了测试是否可以 规避G*W 污染的版权声明
 
 ### 项目地址
-###https://github.com/Anankke/SSPanel-Uim
+### [github.com/Anankke/SSPanel-Uim](https://github.com/Anankke/SSPanel-Uim) 
 
 ### Support or Contact
 
