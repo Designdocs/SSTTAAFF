@@ -2,7 +2,7 @@
 一个为了测试是否可以 规避G*W 污染域名的版权声明
 
 ## 项目地址
-### [👉访问 UIM Project](https://github.com/Anankke/SSPanel-Uim)   [👉Malio Theme](https://t.me/masivro)
+### [👉UIM Project](https://github.com/Anankke/SSPanel-Uim)   [👉Malio Theme](https://t.me/masivro)
 
 ### Support or Contact
 
